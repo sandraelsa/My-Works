@@ -24,7 +24,7 @@ public class Binary {
 			{
 				if (array[i]== elementToSearch)
 				{
-					System.out.println("Element is at index: " +i);
+					System.out.println("Element is at index:" +i);
 					break;
 				}
 				else
